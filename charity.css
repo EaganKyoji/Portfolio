@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.laut{
+    width: 2880px;
+    margin-top: 80px;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+
+div.PagenotFound{
+    margin-left: 125px;
+    margin-top: 150px;
+}
+
+h1{
+    font-size: 200px;
+    font-family: fantasy;
+    color: #7779ee;
+    width: 450px;
+    height: fit-content;
+    background-color: #313263;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 200px;
+    font-family: fantasy;
+    color: #313263;
+    font-size: 76.39px;
+    background-color: #7779ee;
+    width: 800px;
+    height:fit-content;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+}
